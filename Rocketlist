@@ -1,11 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HFqHt27.jpg" group-title="JOVENES Y ADULTOS",Toonizaki
-https://stream-linkyprojects.linky.com.co/hls/toonizaki.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HFqHt27.jpg" group-title="JOVENES Y ADULTOS",Toonizaki OP 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="JOVENES Y ADULTOS",Magic Club
+https://stream-linkyprojects.linky.com.co/hls/magicclub.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="JOVENES Y ADULTOS",Magic Club OP 2
 https://stream.tuentv.net/toonizaki/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mXLV1FH.png" group-title="JOVENES Y ADULTOS",Canal Pochi
-https://stream-linkyprojects.linky.com.co/hls/pochi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="JOVENES Y ADULTOS", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEEGTCd.png" group-title="JOVENES Y ADULTOS", Kanade TV
@@ -44,7 +42,5 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w1697525611.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/chjfLEV.png" group-title="JOVENES Y ADULTOS",Loading brasil
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1550837346.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yWo7jrd.png" group-title="RADIOS", Michy Miau FM
-https://stream-59.zeno.fm/odh4xe1ilgrtv?zs=tQrxh8MVQ56n-wtLkVc2sQ
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G26OlsA.png" group-title="RADIOS", Radio Super Music FM
 https://stream-57.zeno.fm/ysesgd11808uv?zs=YZk1sB2USJ-YD0wUQ-zOEw
